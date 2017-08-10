@@ -29,7 +29,8 @@ public class MyServletContextListener implements ServletContextListener {
     public void contextDestroyed(ServletContextEvent arg0)  { 
          // TODO Auto-generated method stub
     }
-
+//this is constructor
+ 
 	/**
      * @see ServletContextListener#contextInitialized(ServletContextEvent)
      */
